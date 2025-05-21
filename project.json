@@ -1,7 +1,7 @@
 {
   "name": "Academy-REF-UiDemo_Windows",
   "projectId": "16b4621c-f7e4-42d4-8957-b68191058a7f",
-  "description": "UiDemo process automated using the Robotic Enterprise Framework II.",
+  "description": "UiDemo process automated using the Robotic Enterprise Framework II. Concluido!!!",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",

@@ -91,7 +91,7 @@
       <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <StateMachine InitialState="{x:Reference __ReferenceID3}" sap2010:Annotation.AnnotationText="UiDemo&#xA;Input transactions to the UiDemo application. The transaction data is taken from a Queue in Orchestrator." DisplayName="General Business Process" sap:VirtualizedContainerService.HintSize="658.4000000000001,434.4" sap2010:WorkflowViewState.IdRef="StateMachine_1">
+  <StateMachine InitialState="{x:Reference __ReferenceID3}" sap2010:Annotation.AnnotationText="UiDemo&#xA;Input transactions to the UiDemo application. The transaction data is taken from a Queue in Orchestrator." DisplayName="General Business Process" sap:VirtualizedContainerService.HintSize="740.8000000000001,425.6" sap2010:WorkflowViewState.IdRef="StateMachine_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -681,7 +681,7 @@
                         <Transition DisplayName="System Exception (failed initialization)" sap:VirtualizedContainerService.HintSize="451.333333333333,822.666666666667" sap2010:WorkflowViewState.IdRef="Transition_3">
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                              <av:PointCollection x:Key="ConnectorLocation">339,126.66666666666666 339,156.66666666666666 85.32,156.66666666666666 85.32,208</av:PointCollection>
+                              <av:PointCollection x:Key="ConnectorLocation">339,126.66666666666666 339,156.66666666666666 85.68,156.66666666666666 85.68,208</av:PointCollection>
                               <x:Int32 x:Key="SrcConnectionPointIndex">39</x:Int32>
                               <x:Int32 x:Key="DestConnectionPointIndex">34</x:Int32>
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
